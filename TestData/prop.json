@@ -1,0 +1,20 @@
+{
+
+    "TestURL":"https://apps.powerapps.com/play/a2f198af-f84f-4d6f-99a8-6fa5daf0156f?tenantId=ff7bc020-9a57-4755-bba9-139ab91b3ce9",
+
+     "TestURL1":"https://teams.microsoft.com/",
+    
+    "UserDetails":{
+            "ValidUserName":"testuser@harmandemoaa.onmicrosoft.com",
+            "ValidPassword":"connectme01*",
+            "InvalidUserName" :"123456789",
+            "InvalidPassword" :"XXXXXX",
+            "IncorrectUserName":"test@harmandemoaa.onmicrosoft.com"
+
+    },
+    "LoginErrorMsgs":{
+        "IncorrectMsg": "Your account or password is incorrect. If you don't remember your password, reset it now.",
+        "InValidMsg":""
+    }
+
+}
